@@ -1,0 +1,15 @@
+
+Name: Max Melnikov
+Password: qwerty12
+Sex: M
+Is stayed in the system: true
+
+Name: smb smb
+Password: wqrxf213
+Sex: F
+Is stayed in the system: false
+
+Name: раорп
+Password: рпор
+Sex: M
+Is stayed in the system: true
